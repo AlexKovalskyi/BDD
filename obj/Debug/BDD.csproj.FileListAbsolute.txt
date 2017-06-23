@@ -1,0 +1,7 @@
+D:\Git\BDD\bin\Debug\SpecflowDemo.exe.config
+D:\Git\BDD\bin\Debug\SpecflowDemo.exe
+D:\Git\BDD\bin\Debug\SpecflowDemo.pdb
+D:\Git\BDD\bin\Debug\nunit.framework.xml
+D:\Git\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
+D:\Git\BDD\obj\Debug\SpecflowDemo.exe
+D:\Git\BDD\obj\Debug\SpecflowDemo.pdb
